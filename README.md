@@ -1,3 +1,4 @@
+![logo](https://github.com/0827CS181217/subodh-patidar/blob/master/covergithub.jpg)
 <h1 align="center">Hi 👋, I'm Subodh Patidar</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
